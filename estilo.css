@@ -1,0 +1,60 @@
+body {
+    background: gray;
+}
+
+header#header {
+    font: normal 20pt;
+    font-family: cursive;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 20px;
+    text-align: center;
+    padding: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    box-shadow: rgba(0, 0, 0, 0.534) 5px 5px 5px;
+}
+
+input#resposta {
+    border-radius: 10px;
+    width: 100px;
+}
+
+input#botão {
+    border-radius: 10px;
+}
+
+/*div#titulo {
+    font-size:x-large;
+    background: rgba(255, 0, 106, 0.884);
+    color: white;
+    text-align: center;
+    width: 170px;
+    margin-left: 555px;
+    border-radius: 20px;
+    font-family: 'Bebas Neue', sans-serif;
+    
+}*/
+
+div {
+    margin-top: 10px;
+}
+
+div#descrição {
+    background: lightgray;
+    border-radius: 8px;
+    padding: 5px;
+    box-shadow: rgba(224, 2, 150, 0.692) 5px 5px 5px;
+    font-family: 'Passion One', cursive;
+}
+
+div#autoria {
+    font-style: italic;
+    text-align: center;
+    margin-top: 15px;
+}
